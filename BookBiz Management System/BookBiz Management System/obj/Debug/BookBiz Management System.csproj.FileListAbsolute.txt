@@ -1,0 +1,32 @@
+D:\梁建权\Vanier College\Block4\Application Development 1\final project\BookBiz Management System\BookBiz Management System\bin\Debug\BookBiz Management System.exe.config
+D:\梁建权\Vanier College\Block4\Application Development 1\final project\BookBiz Management System\BookBiz Management System\bin\Debug\BookBiz Management System.exe
+D:\梁建权\Vanier College\Block4\Application Development 1\final project\BookBiz Management System\BookBiz Management System\bin\Debug\BookBiz Management System.pdb
+D:\梁建权\Vanier College\Block4\Application Development 1\final project\BookBiz Management System\BookBiz Management System\obj\Debug\BookBiz Management System.csproj.AssemblyReference.cache
+D:\梁建权\Vanier College\Block4\Application Development 1\final project\BookBiz Management System\BookBiz Management System\obj\Debug\BookBiz Management System.csproj.SuggestedBindingRedirects.cache
+D:\梁建权\Vanier College\Block4\Application Development 1\final project\BookBiz Management System\BookBiz Management System\obj\Debug\BookBiz_Management_System.Login.resources
+D:\梁建权\Vanier College\Block4\Application Development 1\final project\BookBiz Management System\BookBiz Management System\obj\Debug\BookBiz_Management_System.Properties.Resources.resources
+D:\梁建权\Vanier College\Block4\Application Development 1\final project\BookBiz Management System\BookBiz Management System\obj\Debug\BookBiz Management System.csproj.GenerateResource.cache
+D:\梁建权\Vanier College\Block4\Application Development 1\final project\BookBiz Management System\BookBiz Management System\obj\Debug\BookBiz Management System.csproj.CoreCompileInputs.cache
+D:\梁建权\Vanier College\Block4\Application Development 1\final project\BookBiz Management System\BookBiz Management System\obj\Debug\BookBiz Management System.exe
+D:\梁建权\Vanier College\Block4\Application Development 1\final project\BookBiz Management System\BookBiz Management System\obj\Debug\BookBiz Management System.pdb
+D:\梁建权\Vanier College\Block4\Application Development 1\final project\BookBiz Management System\BookBiz Management System\obj\Debug\BookBiz_Management_System.MainForm.resources
+D:\梁建权\Vanier College\Block4\Application Development 1\final project\BookBiz Management System\BookBiz Management System\obj\Debug\BookBiz Management System.exe.config
+D:\梁建权\Vanier College\Block4\Application Development 1\final project\BookBiz Management System\BookBiz Management System\bin\Debug\Microsoft.Data.Tools.Components.dll
+D:\梁建权\Vanier College\Block4\Application Development 1\final project\BookBiz Management System\BookBiz Management System\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+D:\梁建权\Vanier College\Block4\Application Development 1\final project\BookBiz Management System\BookBiz Management System\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+D:\梁建权\Vanier College\Block4\Application Development 1\final project\BookBiz Management System\BookBiz Management System\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+D:\梁建权\Vanier College\Block4\Application Development 1\final project\BookBiz Management System\BookBiz Management System\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+D:\梁建权\Vanier College\Block4\Application Development 1\final project\BookBiz Management System\BookBiz Management System\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+D:\梁建权\Vanier College\Block4\Application Development 1\final project\BookBiz Management System\BookBiz Management System\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\梁建权\Vanier College\Block4\Application Development 1\final project\BookBiz Management System\BookBiz Management System\bin\Debug\zh-Hans\Microsoft.Data.Tools.Schema.Sql.resources.dll
+D:\梁建权\Vanier College\Block4\Application Development 1\final project\BookBiz Management System\BookBiz Management System\bin\Debug\zh-Hans\Microsoft.Data.Tools.Schema.Sql.UnitTesting.resources.dll
+D:\梁建权\Vanier College\Block4\Application Development 1\final project\BookBiz Management System\BookBiz Management System\bin\Debug\zh-Hans\Microsoft.Data.Tools.Components.resources.dll
+D:\梁建权\Vanier College\Block4\Application Development 1\final project\BookBiz Management System\BookBiz Management System\bin\Debug\zh-Hans\Microsoft.Data.Tools.Utilities.resources.dll
+D:\梁建权\Vanier College\Block4\Application Development 1\final project\BookBiz Management System\BookBiz Management System\bin\Debug\zh-Hans\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+D:\梁建权\Vanier College\Block4\Application Development 1\final project\BookBiz Management System\BookBiz Management System\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\梁建权\Vanier College\Block4\Application Development 1\final project\BookBiz Management System\BookBiz Management System\obj\Debug\BookBiz Management System.csproj.CopyComplete
+D:\梁建权\Vanier College\Block4\Application Development 1\final project\BookBiz Management System\BookBiz Management System\obj\Debug\BookBiz_Management_System.userinformation.resources
+D:\梁建权\Vanier College\Block4\Application Development 1\final project\BookBiz Management System\BookBiz Management System\obj\Debug\BookBiz_Management_System.ClientPublisherInfomation.resources
+D:\梁建权\Vanier College\Block4\Application Development 1\final project\BookBiz Management System\BookBiz Management System\obj\Debug\BookBiz_Management_System.Authorinformation.resources
+D:\梁建权\Vanier College\Block4\Application Development 1\final project\BookBiz Management System\BookBiz Management System\obj\Debug\BookBiz_Management_System.BookInformation.resources
+D:\梁建权\Vanier College\Block4\Application Development 1\final project\BookBiz Management System\BookBiz Management System\obj\Debug\BookBiz_Management_System.OrderTableForm.resources
